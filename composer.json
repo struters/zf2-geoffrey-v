@@ -1,14 +1,11 @@
 {
-    "name": "zendframework/skeleton-application",
-    "description": "Skeleton Application for ZF2",
-    "license": "BSD-3-Clause",
-    "keywords": [
-        "framework",
-        "zf2"
+    "name": "vendor/zend-skeleton-application",
+    "description": "Description of project ZendSkeletonApplication.",
+    "authors": [
+        {
+            "name": "Geoffrey",
+            "email": "your@email.here"
+        }
     ],
-    "homepage": "http://framework.zend.com/",
-    "require": {
-        "php": ">=5.5",
-        "zendframework/zendframework": "~2.5"
-    }
+    "require": {}
 }
